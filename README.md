@@ -119,7 +119,7 @@ Authorization: Bearer SEU_TOKEN_AQUI
 ---
 
 ## 🤝 Integração
-Esta API é utilizada pelo cliente **[Swing Enterprise](../client-swing-enterprise)** para autenticação e operações de CRUD.
+Esta API é utilizada pelo cliente **[Swing Enterprise](../Client-Enterprise)** para autenticação e operações de CRUD.
 
 ---
 
