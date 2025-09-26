@@ -28,7 +28,7 @@ API RESTful desenvolvida em **Spring Boot 3**, integrada com **PostgreSQL** e **
 ## ⚙️ Configuração do Ambiente
 
 ### 1. Pré-requisitos
-- [Java 21+](https://adoptium.net/)
+- [Java 21+](https://www.oracle.com/br/java/technologies/downloads)
 - [Maven 3.9+](https://maven.apache.org/)
 - [PostgreSQL 17](https://www.postgresql.org/)
 
