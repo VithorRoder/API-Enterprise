@@ -19,7 +19,7 @@ CREATE TABLE IF NOT EXISTS customers (
 
 -- Seed admin user (password: admin123)
 INSERT INTO users (username, password)
-VALUES ('admin', '$2a$10$0QmQkWDSwj5F5O4xPqHn8O40s9gJ5j1m6v5o7mKpRk3Qxj8mQf2Wy') -- bcrypt for "admin123"
+VALUES ('admin', '$2a$10$5iA6Jp.MDg31t1NqxTe6AeaZizUlDIGvyOW0mbQj60LxbcTnyDYfK') -- bcrypt for "admin123"
 ON CONFLICT (username) DO NOTHING;
 
 INSERT INTO user_roles (user_id, role)
